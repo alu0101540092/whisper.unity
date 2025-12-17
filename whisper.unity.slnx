@@ -1,0 +1,6 @@
+﻿<Solution>
+  <Project Path="com.whisper.unity.csproj" />
+  <Project Path="Assembly-CSharp.csproj" />
+  <Project Path="com.whisper.unity.tests.csproj" />
+  <Project Path="com.whisper.unity.editor.csproj" />
+</Solution>

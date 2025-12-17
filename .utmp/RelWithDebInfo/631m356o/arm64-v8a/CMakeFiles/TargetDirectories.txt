@@ -1,0 +1,5 @@
+C:/Users/samue/Unity/whisper.unity/.utmp/RelWithDebInfo/631m356o/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/samue/Unity/whisper.unity/.utmp/RelWithDebInfo/631m356o/arm64-v8a/CMakeFiles/rebuild_cache.dir
+C:/Users/samue/Unity/whisper.unity/.utmp/RelWithDebInfo/631m356o/arm64-v8a/FramePacing/CMakeFiles/swappywrapper.dir
+C:/Users/samue/Unity/whisper.unity/.utmp/RelWithDebInfo/631m356o/arm64-v8a/FramePacing/CMakeFiles/edit_cache.dir
+C:/Users/samue/Unity/whisper.unity/.utmp/RelWithDebInfo/631m356o/arm64-v8a/FramePacing/CMakeFiles/rebuild_cache.dir
